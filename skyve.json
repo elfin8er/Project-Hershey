@@ -1,0 +1,3521 @@
+{
+  "Name": "Hershey PA",
+  "Temporary": false,
+  "Assets": [
+    {
+      "RelativePath": "%WORKSHOP%\\1089035056\\lg forest beech 2.crp",
+      "SteamId": 1089035056
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1089035056\\lg forest beech full.crp",
+      "SteamId": 1089035056
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1089035056\\lg forest beech shrub 1.crp",
+      "SteamId": 1089035056
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1094334744\\NativeCube_Procedural.crp",
+      "SteamId": 1094334744
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1094334744\\NativeSquare_Procedural.crp",
+      "SteamId": 1094334744
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1094959864\\r69-short-grass-64.crp",
+      "SteamId": 1094959864
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1094959864\\r69-short-grass.crp",
+      "SteamId": 1094959864
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1107787031\\cement-curb-large.crp",
+      "SteamId": 1107787031
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1107787031\\cement-curb-medium.crp",
+      "SteamId": 1107787031
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1107787031\\cement-curb-square.crp",
+      "SteamId": 1107787031
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1107787031\\cement-decal.crp",
+      "SteamId": 1107787031
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1107787031\\cement-ramp.crp",
+      "SteamId": 1107787031
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1107787031\\cement-smaller.crp",
+      "SteamId": 1107787031
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1119935069\\Research Hospital.crp",
+      "SteamId": 1119935069
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1199958905\\Photorealistic_lut_Final_by_Reaper.crp",
+      "SteamId": 1199958905
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1205312481\\BP Asymmetric 4+1 Grass.crp",
+      "SteamId": 1205312481
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1205312481\\BP Asymmetric 4+1 Trees.crp",
+      "SteamId": 1205312481
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1205312481\\BP Asymmetric 4+1.crp",
+      "SteamId": 1205312481
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\3031623332\\CO-Boreal-Theme.crp",
+      "SteamId": 3031623332
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\3031623332\\CO-European-Theme.crp",
+      "SteamId": 3031623332
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\3031623332\\CO-Temperate-Theme.crp",
+      "SteamId": 3031623332
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\3031623332\\CO-Tropical-Theme.crp",
+      "SteamId": 3031623332
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\3031623332\\CO-Winter-Theme.crp",
+      "SteamId": 3031623332
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1209715218\\Parking Lot (Small).crp",
+      "SteamId": 1209715218
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1225368249\\Leafy_full .crp",
+      "SteamId": 1225368249
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1225368249\\Leafy_Reg.crp",
+      "SteamId": 1225368249
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1225368249\\Leafy_split trunk .crp",
+      "SteamId": 1225368249
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1225368249\\Leafy_Tend.crp",
+      "SteamId": 1225368249
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1230960704\\PD - pencil pine .crp",
+      "SteamId": 1230960704
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1230960704\\PD - Pine Regular .crp",
+      "SteamId": 1230960704
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1230960704\\PD - Pine short.crp",
+      "SteamId": 1230960704
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1230960704\\PD - Pine Tall.crp",
+      "SteamId": 1230960704
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1238996556\\Hotel Savoy.crp",
+      "SteamId": 1238996556
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251962536\\Riverpark Dragon Throne Chinese.crp",
+      "SteamId": 1251962536
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251962536\\Riverpark_Dragon_Throne_Sign.crp",
+      "SteamId": 1251962536
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\406665344\\Large Highschool.crp",
+      "SteamId": 406665344
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251963830\\Riverpark Estrada's Mexican Food.crp",
+      "SteamId": 1251963830
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251963830\\Riverpark_Estrada's_Mexican_Sign.crp",
+      "SteamId": 1251963830
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251966013\\Riverpark First Class Liquor.crp",
+      "SteamId": 1251966013
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251966013\\Riverpark_1st_Class_Liquor _Sign.crp",
+      "SteamId": 1251966013
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\407932338\\Timboh's Inner Cloverstack Inte%002E.crp",
+      "SteamId": 407932338
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251969250\\Riverpark Your Average Vape.crp",
+      "SteamId": 1251969250
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251969250\\Riverpark_Vape_Store_Sign.crp",
+      "SteamId": 1251969250
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\409123636\\Double-Paperclip Interchange.crp",
+      "SteamId": 409123636
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251971098\\Riverpark Sign Base Type A.crp",
+      "SteamId": 1251971098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251971098\\Riverpark Sign Base Type B.crp",
+      "SteamId": 1251971098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251971098\\Riverpark Sign Topper Type A.crp",
+      "SteamId": 1251971098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251971098\\Riverpark Sign Topper Type B.crp",
+      "SteamId": 1251971098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1251971098\\Riverpark Sign Topper Type C.crp",
+      "SteamId": 1251971098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\409559525\\Elevated Compact Interchange min.crp",
+      "SteamId": 409559525
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1259084729\\Parking Lot 2.crp",
+      "SteamId": 1259084729
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\410030736\\Timboh's A-Trumpet Interchange.crp",
+      "SteamId": 410030736
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1276807684\\lg net brick wall 01.crp",
+      "SteamId": 1276807684
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\410504977\\Cold Drinks Vending - Prop.crp",
+      "SteamId": 410504977
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1282656448\\daysinn.crp",
+      "SteamId": 1282656448
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1282656448\\daysinnsign.crp",
+      "SteamId": 1282656448
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1282656448\\daysinnsignsmall.crp",
+      "SteamId": 1282656448
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\411400601\\Timboh's S-Dir%002E B-Trumpet Inte%002E.crp",
+      "SteamId": 411400601
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_1x1_EVParking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_1x1_HandiParking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_1x1_Parking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_1x1_Single.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_22M.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_3x2_Parking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_40M.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_4x1_Parking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_4x2_Parking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_58M.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ParkingLot_8x2_Parking.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1285201733\\ServiceRoad_16M.crp",
+      "SteamId": 1285201733
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\412577106\\Baseball Field v2.crp",
+      "SteamId": 412577106
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1303772884\\ParkingLot_22M_Busted.crp",
+      "SteamId": 1303772884
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1303772884\\ParkingLot_40M_Busted.crp",
+      "SteamId": 1303772884
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1303772884\\ParkingLot_58M_Busted.crp",
+      "SteamId": 1303772884
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1303772884\\ServiceRoad_16M_Busted.crp",
+      "SteamId": 1303772884
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1321660248\\NotSoRocky European.crp",
+      "SteamId": 1321660248
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1331430903\\Prentice Womens Hospital.crp",
+      "SteamId": 1331430903
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Ahead Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Bike Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Drive Thru Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\End Of Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\HOV Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Keep Clear Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Lane Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Left Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Merge Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Only Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Ped Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Right Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\School Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Signal Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Turn Road Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1335783895\\Wrong Way Decal.crp",
+      "SteamId": 1335783895
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1342118082\\Hotel Touraine.crp",
+      "SteamId": 1342118082
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1342118082\\Touraine apartments.crp",
+      "SteamId": 1342118082
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1361930536\\Reeds 3 smaller .crp",
+      "SteamId": 1361930536
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1361930536\\Reeds 3.crp",
+      "SteamId": 1361930536
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence)  Bridge.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence)  Green Net 16m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence)  Green Net.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence)  Rail Side.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) 1 8m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) 1 Entrance.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) 1.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) 2 8m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) 2.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) 3.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Accordion Curtain.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block 16m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block 2 8m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block 2 Entrance.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block 2.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block 8m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block Entrance.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block Low 8m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block Low.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block Perforated.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Block.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Concrete Plate 16m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Concrete Plate 2.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Concrete Plate.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Green Net 2 16m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) Green Net 2.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) School 24m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) School.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) White Net 16m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) White Net 8m.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1368624040\\(JP fence) White Net.crp",
+      "SteamId": 1368624040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\412785623\\Timboh's Y-Stack Interchange.crp",
+      "SteamId": 412785623
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1381339507\\Quay stairs A.crp",
+      "SteamId": 1381339507
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1381339507\\Quay stairs B.crp",
+      "SteamId": 1381339507
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\413433670\\Food Cart.crp",
+      "SteamId": 413433670
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\414382809\\Timboh's Sonnborner Interchange.crp",
+      "SteamId": 414382809
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1387447994\\Clus_StationDisplay01.crp",
+      "SteamId": 1387447994
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1387447994\\Clus_StationDisplay02.crp",
+      "SteamId": 1387447994
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1387447994\\Clus_StationDisplay03.crp",
+      "SteamId": 1387447994
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\426406192\\Soldyne's RMB Square x1.crp",
+      "SteamId": 426406192
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1389852552\\Clus_Tram_Bus_Hub.crp",
+      "SteamId": 1389852552
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\427173779\\Soldyne's Chain Link Fence x8.crp",
+      "SteamId": 427173779
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\430791037\\Portacabin%002FSite Office Prop.crp",
+      "SteamId": 430791037
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\433408325\\Small_Skip.crp",
+      "SteamId": 433408325
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\441898053\\Pine Tree.crp",
+      "SteamId": 441898053
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1424963258\\HVACR#1.crp",
+      "SteamId": 1424963258
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1424963258\\HVACR#2.crp",
+      "SteamId": 1424963258
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1424963258\\HVACR#3.crp",
+      "SteamId": 1424963258
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\442717595\\Compact Interchange max.crp",
+      "SteamId": 442717595
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1492289756\\Shell GasStation.crp",
+      "SteamId": 1492289756
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1492289756\\Shell_GasStation_Sign.crp",
+      "SteamId": 1492289756
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\443451231\\News Boxes x3 Prop.crp",
+      "SteamId": 443451231
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1501682221\\Linden Tree Young.crp",
+      "SteamId": 1501682221
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1501682221\\Linden Tree.crp",
+      "SteamId": 1501682221
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1515021577\\sheetzcarwash.crp",
+      "SteamId": 1515021577
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1515021577\\sheetzcarwashsign.crp",
+      "SteamId": 1515021577
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1515021577\\sheetzgaspumps.crp",
+      "SteamId": 1515021577
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1515021577\\sheetzsign.crp",
+      "SteamId": 1515021577
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1515021577\\sheetzstore.crp",
+      "SteamId": 1515021577
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\449011480\\Summer Tree #1 (by Breeze).crp",
+      "SteamId": 449011480
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-buff.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat1e.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat1n.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat1t.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat2e.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat2n.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat2t.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat4e.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat4n.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-cat4t.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-gant1.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-gant2.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-gant4.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-sigl.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1530376523\\r69rwp-sigr.crp",
+      "SteamId": 1530376523
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\449602988\\RonaldMcDonald.crp",
+      "SteamId": 449602988
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\450753469\\Summer Tree #2 (by Breeze).crp",
+      "SteamId": 450753469
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\451041644\\White Birch Tree.crp",
+      "SteamId": 451041644
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\452682602\\Garden Wall (Brick).crp",
+      "SteamId": 452682602
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\455034859\\Bush #2 (by Breeze).crp",
+      "SteamId": 455034859
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\482476860\\Rollercoaster 2.crp",
+      "SteamId": 482476860
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\484380776\\Bush #3 (by Breeze).crp",
+      "SteamId": 484380776
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\484381291\\Bush #4 (by Breeze).crp",
+      "SteamId": 484381291
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\485527424\\Pallet Set Office.crp",
+      "SteamId": 485527424
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\485527773\\Cement Bags Prop 1.crp",
+      "SteamId": 485527773
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1649656525\\KerrisdaleBay.crp",
+      "SteamId": 1649656525
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\491083919\\RyanJames_Venting2.crp",
+      "SteamId": 491083919
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1660532596\\USAInnMotel.crp",
+      "SteamId": 1660532596
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1660532596\\USAInnSign.crp",
+      "SteamId": 1660532596
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\500208129\\Dentist Office.crp",
+      "SteamId": 500208129
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover blue.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover pink.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover Purple.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover red.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover white.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover yellow.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1671688436\\garden cover.crp",
+      "SteamId": 1671688436
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1695530418\\fus_41_grass_unmarkedu.crp",
+      "SteamId": 1695530418
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\501347385\\Baseball-L5-College Stadium.crp",
+      "SteamId": 501347385
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1731659180\\BP_E_SingleTrackStationTrack.crp",
+      "SteamId": 1731659180
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1731659180\\BP_G_SingleTrackStationTrack.crp",
+      "SteamId": 1731659180
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\509059991\\city hospital v6.crp",
+      "SteamId": 509059991
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\510142079\\Cordyline Australis.crp",
+      "SteamId": 510142079
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\510170955\\3wiaee.crp",
+      "SteamId": 510170955
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight01.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight02.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight03.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight04.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight05.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight06.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight07.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight08.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight09.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight10.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight11.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight12.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight13.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight14.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight15.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight16.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight17.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight18.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight19.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight20.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight21.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight22.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight23.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight24.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight25.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight26.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight27.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight28.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight29.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight30.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight31.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight32.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight33.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight34.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLight35.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLGTrafficLightBlank.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLTrafficLightVar2TopCool.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLTrafficLightVar2TopNeutral.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1743879364\\NATLTrafficLightVar2TopWarm.crp",
+      "SteamId": 1743879364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\511632451\\pallete with bricks.crp",
+      "SteamId": 511632451
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1756609613\\Cannabis Dispensary.crp",
+      "SteamId": 1756609613
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\530232429\\Car Wash.crp",
+      "SteamId": 530232429
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\531061773\\Fire_escape1.crp",
+      "SteamId": 531061773
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\533021476\\Parkplatz.crp",
+      "SteamId": 533021476
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\534580194\\City Bus Terminal.crp",
+      "SteamId": 534580194
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1801655629\\SemiTruck.crp",
+      "SteamId": 1801655629
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\546345739\\Semi trailer prop.crp",
+      "SteamId": 546345739
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1808272564\\Small Stadium Light (dim).crp",
+      "SteamId": 1808272564
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1808272564\\Small Stadium Light (medium).crp",
+      "SteamId": 1808272564
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\558170851\\Lights After Dark Bus Stop.crp",
+      "SteamId": 558170851
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1811911002\\fb-logo-random.crp",
+      "SteamId": 1811911002
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1811911002\\High School Stadium.crp",
+      "SteamId": 1811911002
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\559865108\\ZED68-CimHospital.crp",
+      "SteamId": 559865108
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1870738252\\Tiny 1L1W.crp",
+      "SteamId": 1870738252
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1870738252\\Tiny 1N1W.crp",
+      "SteamId": 1870738252
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1870738252\\Tiny 2L1W.crp",
+      "SteamId": 1870738252
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1870738252\\Tiny 3L1W.crp",
+      "SteamId": 1870738252
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1870738252\\Tiny 4L1W.crp",
+      "SteamId": 1870738252
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1870738252\\Tiny English Speaking Ramp.crp",
+      "SteamId": 1870738252
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\561892121\\Fire_escape22.crp",
+      "SteamId": 561892121
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\573198132\\Modular Bus Station.crp",
+      "SteamId": 573198132
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\598047403\\Garden Shed #1.crp",
+      "SteamId": 598047403
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\598641774\\MetropolitanHospital.crp",
+      "SteamId": 598641774
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassCircle4M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassCircle8M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassQuarterCircle4M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassSquare4M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassSquare8M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassTriangle4M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1933800083\\BlockGrassTriangle8M.crp",
+      "SteamId": 1933800083
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Bollard.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Curved Avenue Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Curved Street Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Ground Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Light Column.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\LPS Avenue Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\LPS Street Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Park Light Yellow.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Park Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Reflective Light Double.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Reflective Light Single.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Retro Avenue Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Retro Street Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Spiral Lamp.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Spot Light Yellow.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Spot Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Stainless Avenue Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Stainless Street Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Suspended Avenue Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Suspended Street Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Swan Light L.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Swan Light S.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Thylia Avenue Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Thylia Promenade Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Thylia Street Light.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Triple Lamp Post.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\609644643\\Utility Pole.crp",
+      "SteamId": 609644643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1942470726\\BatmanBatmobile80s90s.crp",
+      "SteamId": 1942470726
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1942470726\\BatmanBatmobile80s90sPROP.crp",
+      "SteamId": 1942470726
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\612991469\\Community Highschool.crp",
+      "SteamId": 612991469
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1981221743\\Six Flags - American Eagle.crp",
+      "SteamId": 1981221743
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1981221743\\Six Flags - Batman.crp",
+      "SteamId": 1981221743
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1981221743\\Six Flags - Mardi Gras.crp",
+      "SteamId": 1981221743
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1981221743\\Six Flags - Raging Bull.crp",
+      "SteamId": 1981221743
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1981221743\\Six Flags - X-Flight.crp",
+      "SteamId": 1981221743
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\613117759\\Air ducks1.crp",
+      "SteamId": 613117759
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1991627065\\JP Parking Lot Light Double.crp",
+      "SteamId": 1991627065
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\1991627065\\JP Parking Lot Light Single.crp",
+      "SteamId": 1991627065
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\613123897\\Air ducks3.crp",
+      "SteamId": 613123897
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\615238345\\Rollercoaster The Twister.crp",
+      "SteamId": 615238345
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\627917266\\Next Exit Sign.crp",
+      "SteamId": 627917266
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\629040688\\Realistic V1%002E5%002E5 Temperate.crp",
+      "SteamId": 629040688
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2025763476\\Redbrick Village Church.crp",
+      "SteamId": 2025763476
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\645378705\\American Eclectic 1A.crp",
+      "SteamId": 645378705
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\645702117\\American Eclectic 1B.crp",
+      "SteamId": 645702117
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\646038696\\American Eclectic 2A.crp",
+      "SteamId": 646038696
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\646811973\\American Eclectic 3A.crp",
+      "SteamId": 646811973
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2066233072\\Filler Pine 01.crp",
+      "SteamId": 2066233072
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2066233072\\Filler Pine 02.crp",
+      "SteamId": 2066233072
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2066233072\\Filler Pine 03.crp",
+      "SteamId": 2066233072
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2066233072\\Filler Pine 04.crp",
+      "SteamId": 2066233072
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\646864944\\American Eclectic 3C.crp",
+      "SteamId": 646864944
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2066750394\\WQ Four-Lane Two-Way Highway.crp",
+      "SteamId": 2066750394
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\646924281\\American Eclectic 3D.crp",
+      "SteamId": 646924281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2075454805\\WQ Three-Lane (1+2) Two-Way Hwy.crp",
+      "SteamId": 2075454805
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\647557935\\American Eclectic 4A.crp",
+      "SteamId": 647557935
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2079011018\\Plane Street Tree Large.crp",
+      "SteamId": 2079011018
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2079011018\\Plane Street Tree Tall.crp",
+      "SteamId": 2079011018
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2079011018\\Plane Street Tree.crp",
+      "SteamId": 2079011018
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\648010639\\American Eclectic 4B.crp",
+      "SteamId": 648010639
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2093923055\\Plane Street Tree Medium.crp",
+      "SteamId": 2093923055
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\648215850\\American Eclectic 5A.crp",
+      "SteamId": 648215850
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2124899813\\Plafon.crp",
+      "SteamId": 2124899813
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\648262889\\American Eclectic 5B.crp",
+      "SteamId": 648262889
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\648347363\\American Eclectic 5C.crp",
+      "SteamId": 648347363
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\651120546\\Santa Monica West Coaster Unique.crp",
+      "SteamId": 651120546
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\668646020\\Natural Beauty.crp",
+      "SteamId": 668646020
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\680195135\\Colorful Summer Day.crp",
+      "SteamId": 680195135
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\689804690\\kl-childrenshospital.crp",
+      "SteamId": 689804690
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2197863850\\BOBRandomPropTemplate.crp",
+      "SteamId": 2197863850
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2197863850\\BOBRandomTreeTemplate.crp",
+      "SteamId": 2197863850
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2209803428\\Clus_MetroTramBusHub#01.crp",
+      "SteamId": 2209803428
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\715367646\\kl-curb-c.crp",
+      "SteamId": 715367646
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\715367646\\kl-curbcorner.crp",
+      "SteamId": 715367646
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\715367646\\kl-curbsquare.crp",
+      "SteamId": 715367646
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\715367646\\kl-curbtriangle.crp",
+      "SteamId": 715367646
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\715367646\\kl-curbx1.crp",
+      "SteamId": 715367646
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\715367646\\kl-curbx2.crp",
+      "SteamId": 715367646
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-01.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-02.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-03.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-04.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-05.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-06.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-07.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-08.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-09.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-10.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-11.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-12.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-tracksign-00.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-tracksign-01.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-tracksign-02.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-tracksign-03.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2214471559\\sn-rwyusa-barrier-tracksign-04.crp",
+      "SteamId": 2214471559
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\718152945\\Diamond Interchange #2A.crp",
+      "SteamId": 718152945
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\718154109\\Diamond Interchange #2C.crp",
+      "SteamId": 718154109
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\720980903\\HVAC Shape2 prop .crp",
+      "SteamId": 720980903
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\724382534\\Rail1LBridgePillar.crp",
+      "SteamId": 724382534
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\724382534\\Rail1LElevatedPillar.crp",
+      "SteamId": 724382534
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\735981184\\kl-oldnavy.crp",
+      "SteamId": 735981184
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\735983070\\kl-sportclips.crp",
+      "SteamId": 735983070
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\738394287\\kl-redbox.crp",
+      "SteamId": 738394287
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\740521643\\kl-walgreenspharmacy.crp",
+      "SteamId": 740521643
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\746800475\\vents-comlow-l3-4x3.crp",
+      "SteamId": 746800475
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Bus Stop Glass.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Bus Stop Shelter.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Bus Stop Sign.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R-3A No Parking.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R1-1 Stop Sign.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\Big Roads R2 R1-2 Yield.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 00.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 10.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 15.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 20.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 25.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 30.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 35.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 40.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 45.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 5.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 50.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 55.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 60.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 65.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 70.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 75.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 80.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 85.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R2-1 Speed Limit 90.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R3-1 No Right Turn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R3-2 No Left Turn .crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R3-7L LeftLaneTurn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R3-7R RightLaneTurn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R3-9B 2Way LeftTurn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 R5-1 Do Not Enter.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 RCAL-S61 Minor Cra.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 RDE4-1 No Pass On S.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 W8-13 Bridge Ices.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads R2 WT2-1A Hwy Inters.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Random Highway Sign.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sight Bus Shelter.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sight Bus Sign.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WL long.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WL Pole.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WL short.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WL.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WR long.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WR Pole.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WR short.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign 1WR.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign Do Not Enter 2.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign Do Not Enter.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign No Left Turn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign No Right Turn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 00.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 10.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 15.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 20.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 25.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 30.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 35.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 40.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 45.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 5.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 50.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 55.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 60.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 65.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 70.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 75.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 80.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 85.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads Sign TL Speed 90.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads TL 5L Doghouse.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads TL 6L Left Turn.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Roads W9-1R Right Lane Ends .crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Arrow F.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Arrow FL.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Arrow FR.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Arrow L.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Arrow R.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal BUS.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Line 1L.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal Line 2L.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal ONLY.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal RR XING 4m.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal RR XING.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Decal STOP.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Delineator.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Dummy Tree.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Tunnel Exit Door.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Tunnel Light 2.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Tunnel Light.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2228643473\\BIG Urban Roads Tunnel Pillar.crp",
+      "SteamId": 2228643473
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\760398368\\RedHawkElemGym.crp",
+      "SteamId": 760398368
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\781706364\\Satellite.crp",
+      "SteamId": 781706364
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 1L 1W noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 1L 1W.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 1L noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 1L+P noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 1L+P.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 1L.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 2L+P 1Way noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 2L+P 1Way.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 2L+P noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 2L+P.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 3L+P Doghouse noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 3L+P Doghouse.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 3L+P noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 3L+P.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 5L Doghouse noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 5L Doghouse.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 6L Left Turn noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL 6L Left Turn.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL Pedestrians Mirror.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL Pedestrians.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL Single noPed.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2236570542\\BIG Roads TL Single.crp",
+      "SteamId": 2236570542
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_lunar.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_solo.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type01.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type03.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type04.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type06.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type08.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type09.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type15.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\786138281\\tga_wall_lantern_type15s.crp",
+      "SteamId": 786138281
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\787850809\\dp-footballfield1.crp",
+      "SteamId": 787850809
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\787850809\\dp-footballfield2.crp",
+      "SteamId": 787850809
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\787850809\\dp-footballfield3.crp",
+      "SteamId": 787850809
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 01 2m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 02 5m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 03 8m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 04 11m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 05 14m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 06 17m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 07 18m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 08 21m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 09 24m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder 10 26m.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2242682818\\Alder Stump.crp",
+      "SteamId": 2242682818
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2244167659\\BIG Urban Roads 2 Lane.crp",
+      "SteamId": 2244167659
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2244167659\\BIG Urban Roads 4 Lane.crp",
+      "SteamId": 2244167659
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\793544772\\Cedar Valley 4K.crp",
+      "SteamId": 793544772
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\797640314\\mw-barnesandnoble.crp",
+      "SteamId": 797640314
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2245795220\\BIG Urban Roads 5 Lane Asym.crp",
+      "SteamId": 2245795220
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2245795220\\BIG Urban Roads 5 Lane AsymSolid.crp",
+      "SteamId": 2245795220
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2245795220\\BIG Urban Roads 5 Lane C Turning.crp",
+      "SteamId": 2245795220
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2247966924\\Texas Roadhouse Sign.crp",
+      "SteamId": 2247966924
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2247966924\\Texas Roadhouse.crp",
+      "SteamId": 2247966924
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 01 4m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 02 11m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 03 19m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 04 29m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 05 37m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 06 40m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 07 42m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 08 43m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262443894\\Lodgepole Pine 09 44m.crp",
+      "SteamId": 2262443894
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2262682877\\Giantfront.crp",
+      "SteamId": 2262682877
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Large .crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Large 2.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Large Flowers.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Medium.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Small Flowers.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Small.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Tiny Flowers.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2267982040\\Murraya Bush Tiny.crp",
+      "SteamId": 2267982040
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2274941451\\Giant Supermarket.crp",
+      "SteamId": 2274941451
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2278667930\\Hazel Bush Small.crp",
+      "SteamId": 2278667930
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2278667930\\Hazel Large Bush.crp",
+      "SteamId": 2278667930
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2278667930\\Hazel Large Tree.crp",
+      "SteamId": 2278667930
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2278667930\\Hazel sapling .crp",
+      "SteamId": 2278667930
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2278667930\\Hazel Tree Street.crp",
+      "SteamId": 2278667930
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2278667930\\Hazel Tree Young .crp",
+      "SteamId": 2278667930
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2285117143\\BrooksidePublicSchool.crp",
+      "SteamId": 2285117143
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2309794214\\BIG Urban Roads 2 Lane Median.crp",
+      "SteamId": 2309794214
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2309794214\\BIG Urban Roads 3 Lane Asym.crp",
+      "SteamId": 2309794214
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2309794214\\BIG Urban Roads 3 Lane C Turning.crp",
+      "SteamId": 2309794214
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2309794214\\BIG Urban Roads 3L Asym Solid.crp",
+      "SteamId": 2309794214
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2320020887\\Buffalo Wild Wings.crp",
+      "SteamId": 2320020887
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2325741712\\AHN Hospital.crp",
+      "SteamId": 2325741712
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2325741712\\AHN Logo.crp",
+      "SteamId": 2325741712
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2340739552\\ruralinn.crp",
+      "SteamId": 2340739552
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2346312805\\Filler Bush Large 1.crp",
+      "SteamId": 2346312805
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2346312805\\Filler Bush Medium 1.crp",
+      "SteamId": 2346312805
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2346312805\\Filler Bush small 1.crp",
+      "SteamId": 2346312805
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2346315296\\Filler Bush Large 2.crp",
+      "SteamId": 2346315296
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2346315296\\Filler Bush Medium 2.crp",
+      "SteamId": 2346315296
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2346315296\\Filler Bush small 2.crp",
+      "SteamId": 2346315296
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2355034951\\Wildflower_Orange.crp",
+      "SteamId": 2355034951
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2355034951\\Wildflower_Pink.crp",
+      "SteamId": 2355034951
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2355034951\\Wildflower_Purple.crp",
+      "SteamId": 2355034951
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2355034951\\Wildflower_Yellow.crp",
+      "SteamId": 2355034951
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2363061621\\Zanies Comedy Club.crp",
+      "SteamId": 2363061621
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2363061621\\Zanies Marquee.crp",
+      "SteamId": 2363061621
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2363061621\\Zanies Sign Club.crp",
+      "SteamId": 2363061621
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2363061621\\Zanies Sign MML.crp",
+      "SteamId": 2363061621
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2368185960\\electronic-message-sign-font.crp",
+      "SteamId": 2368185960
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2368188918\\DMS-animated.crp",
+      "SteamId": 2368188918
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2368188918\\DMS-square-animated.crp",
+      "SteamId": 2368188918
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2368188918\\DMS-square-static.crp",
+      "SteamId": 2368188918
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2368188918\\DMS-static.crp",
+      "SteamId": 2368188918
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2387667350\\Spot Yankee V2.crp",
+      "SteamId": 2387667350
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2414685108\\BIG Urban Roads 2 Lane unmarked.crp",
+      "SteamId": 2414685108
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\arkansas4-nontc.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\nesque-pillarbase.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r0-railway-tunnel-darkener.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r0-railway-tunnel-darkener2.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-ident01-4nec.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-ident01-4us.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-ident01nec.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-ident01us.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-ident02-4us.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-ident02us.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-weld.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r2-weldus.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2487537755\\r69railway-tunnel-darkener.crp",
+      "SteamId": 2487537755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2514607094\\Basketball Hoop (Prop).crp",
+      "SteamId": 2514607094
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2524441835\\Urban Soccer Football Pitch.crp",
+      "SteamId": 2524441835
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2537218609\\Mc Mahon Stadium.crp",
+      "SteamId": 2537218609
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2574839827\\HighbrookSeniorPublicSchool.crp",
+      "SteamId": 2574839827
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2575295966\\chromium-white-bollard-00.crp",
+      "SteamId": 2575295966
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2594639047\\HS Stadium Random.crp",
+      "SteamId": 2594639047
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2636078724\\SydShipInn.crp",
+      "SteamId": 2636078724
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2669860677\\tennis11x4_n.crp",
+      "SteamId": 2669860677
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2674210208\\Field Network 0.crp",
+      "SteamId": 2674210208
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2674210208\\Field soil decal.crp",
+      "SteamId": 2674210208
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2674210208\\Field Wheat Cut Network 3.crp",
+      "SteamId": 2674210208
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2674210208\\Field Wheat Network 3.crp",
+      "SteamId": 2674210208
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2674210208\\Field Wheat Young Network.crp",
+      "SteamId": 2674210208
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2674210208\\zombie.crp",
+      "SteamId": 2674210208
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2682004981\\chromium-wawa-gas-pump-00.crp",
+      "SteamId": 2682004981
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2682624938\\chromium-wawa-gas-2u-00.crp",
+      "SteamId": 2682624938
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2684380455\\Urban Basketball Court #1 BL.crp",
+      "SteamId": 2684380455
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2684380455\\Urban Basketball Court #1 CL.crp",
+      "SteamId": 2684380455
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2703538172\\Cyperus - PROP.crp",
+      "SteamId": 2703538172
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2703538172\\Cyperus in a pot - prop.crp",
+      "SteamId": 2703538172
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2703538172\\Cyperus.crp",
+      "SteamId": 2703538172
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2707562146\\FH Potsdam highschool version.crp",
+      "SteamId": 2707562146
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2735415828\\GeneralHospital.crp",
+      "SteamId": 2735415828
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2736228506\\Train%002FMetro%002FTram%002FBus Interchange.crp",
+      "SteamId": 2736228506
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BP_rollercoaster_chain.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BP_rollercoaster_highspeed.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BP_rollercoaster_platform.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BP_rollercoaster_standard.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BP_rollercoaster_stop.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BSQ_SvenBerlin_RollercoasterProp.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2749442837\\BSQ_SvenBerlin_RollercoasterTrain.crp",
+      "SteamId": 2749442837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2759063471\\freyberg-pool-gc.crp",
+      "SteamId": 2759063471
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2759063471\\freyberg-sign.crp",
+      "SteamId": 2759063471
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2785593520\\New Zealand Victorian Church.crp",
+      "SteamId": 2785593520
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2786915325\\r2-rwyusa-w-grwo-1x2-cross.crp",
+      "SteamId": 2786915325
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2786915325\\r2-rwyusa-w-grwo-2x2-cross.crp",
+      "SteamId": 2786915325
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2786915325\\r2-rwyusa-w-grwo-4x2-cross.crp",
+      "SteamId": 2786915325
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2789278505\\单侧球场照明灯.crp",
+      "SteamId": 2789278505
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2789278505\\双侧球场照明灯.crp",
+      "SteamId": 2789278505
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2789278505\\立式灯柱大.crp",
+      "SteamId": 2789278505
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2789278505\\立式灯柱小.crp",
+      "SteamId": 2789278505
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2798525638\\五人制足球场B.crp",
+      "SteamId": 2798525638
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2807348160\\tennis5x3_n.crp",
+      "SteamId": 2807348160
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2807818753\\tennis5x8_n.crp",
+      "SteamId": 2807818753
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2809973653\\olmc-coorparoo.crp",
+      "SteamId": 2809973653
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBarrier01.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBarrier02.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBarrierEnd01.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBarrierEnd02.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBarrierEnd03.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBlock01.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBlock01a.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBlock02.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBlock02a.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBlock03.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzBlock03a.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzCyl01.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzCyl02.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzCyl03.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzPost01.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzPost02.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2870248045\\sHzPost03.crp",
+      "SteamId": 2870248045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock1.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock10.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock11.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock12.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock13.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock14.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock15.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock16.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock17.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock2.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock3.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock4.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock5.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock6.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock7.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock8.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteRoadblock9.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sConcreteSkateramp1.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sPlasticRoadblock1.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\2872162666\\sPlasticRoadblock2.crp",
+      "SteamId": 2872162666
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827879848\\Riverpark UPS.crp",
+      "SteamId": 827879848
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827879848\\Riverpark_UPS_Sign.crp",
+      "SteamId": 827879848
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827880154\\Riverpark First Choice.crp",
+      "SteamId": 827880154
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827880154\\Riverpark_First_Choice_Sign.crp",
+      "SteamId": 827880154
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833170855\\Riverpark GameStop.crp",
+      "SteamId": 833170855
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833170855\\Riverpark_GameStop_Sign.crp",
+      "SteamId": 833170855
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833171469\\Riverpark LA Fitness.crp",
+      "SteamId": 833171469
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833171469\\Riverpark_LA_Fitness_Sign.crp",
+      "SteamId": 833171469
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833172012\\Riverpark Lowe's.crp",
+      "SteamId": 833172012
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833172012\\Riverpark_Lowe's_Sign.crp",
+      "SteamId": 833172012
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833173383\\Riverpark Subway Restaurant.crp",
+      "SteamId": 833173383
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833173383\\Riverpark_Subway_Restaurant_Sign.crp",
+      "SteamId": 833173383
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833173741\\Riverpark Verizon.crp",
+      "SteamId": 833173741
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\833173741\\Riverpark_Verizon_Sign.crp",
+      "SteamId": 833173741
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-circle(large).crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-circle(small).crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-curved.crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-large.crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-medium.crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-oval(large).crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-oval(medium).crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-oval(xl).crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-semicircle.crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-small.crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-triangle(medium).crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\843261837\\cp-xl.crp",
+      "SteamId": 843261837
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850134980\\Riverpark Family Dental.crp",
+      "SteamId": 850134980
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850136045\\Riverpark Goodwill.crp",
+      "SteamId": 850136045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850136045\\Riverpark_Goodwill_Sign.crp",
+      "SteamId": 850136045
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850137077\\Riverpark Papa John's.crp",
+      "SteamId": 850137077
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850137077\\Riverpark_Papa_John's_Sign.crp",
+      "SteamId": 850137077
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850137905\\Riverpark Safeway.crp",
+      "SteamId": 850137905
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850137905\\Riverpark_Safeway_Sign.crp",
+      "SteamId": 850137905
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850138337\\Riverpark Wells Fargo.crp",
+      "SteamId": 850138337
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\850138337\\Riverpark_Wells_Fargo_Sign.crp",
+      "SteamId": 850138337
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\853863115\\Diverging Diamond Interchange.crp",
+      "SteamId": 853863115
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\858102805\\University Hospital.crp",
+      "SteamId": 858102805
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\868718614\\Nonstop Bus Terminal.crp",
+      "SteamId": 868718614
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line 1x parking decal.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line 1x parking func.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line 3x parking decal.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line 3x parking func.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line 6x parking func.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark cornerA.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark cornerB.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark curve.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark line long.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark line short.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark roundA.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark roundB.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark roundC.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark roundD.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark small curve.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark small roundA.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark small roundB.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark small square.crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\872001174\\white line mark square .crp",
+      "SteamId": 872001174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\875091615\\RoundBrickPlanter8seats.crp",
+      "SteamId": 875091615
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark 30 zone.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark 50 zone.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark bus v1.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark bus v2.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark stop.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark taxi v1.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark taxi v2.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark xtra long das%002E.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark xtra long line.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark zoning close.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark zoning open L.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark zoning open S.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark zoning open v1.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\884677271\\yellow line mark zoning open v2.crp",
+      "SteamId": 884677271
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\887053030\\Roadway Reflector White.crp",
+      "SteamId": 887053030
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\887053030\\Roadway Reflector Yellow.crp",
+      "SteamId": 887053030
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\912875174\\LP_tree_1.crp",
+      "SteamId": 912875174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\912875174\\LP_tree_2 fall yellow.crp",
+      "SteamId": 912875174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\912875174\\LP_tree_2.crp",
+      "SteamId": 912875174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\912875174\\Small Oak .crp",
+      "SteamId": 912875174
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\915210553\\Common tree 2.crp",
+      "SteamId": 915210553
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\915210553\\Common tree 3.crp",
+      "SteamId": 915210553
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\915210553\\Common tree.crp",
+      "SteamId": 915210553
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\922683980\\Bus Station.crp",
+      "SteamId": 922683980
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\812125426\\BridgePillar.CableStay32m.crp",
+      "SteamId": 812125426
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\812125426\\RetractBollard.crp",
+      "SteamId": 812125426
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\812125426\\RoadPlanter1.crp",
+      "SteamId": 812125426
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\812125426\\StoneBollard.crp",
+      "SteamId": 812125426
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\812125426\\Wood8mEPillar.crp",
+      "SteamId": 812125426
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\812125426\\WoodBollard.crp",
+      "SteamId": 812125426
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\929466044\\Riverpark Blockbuster Video.crp",
+      "SteamId": 929466044
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\929466044\\Riverpark_Blockbuster_Video_Sign.crp",
+      "SteamId": 929466044
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\814631412\\kl-smoothieking.crp",
+      "SteamId": 814631412
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\814631412\\kl-smoothiekingsign.crp",
+      "SteamId": 814631412
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\929469517\\Riverpark Schlotzsky's.crp",
+      "SteamId": 929469517
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\929469517\\Riverpark_Schlotzsky's_Sign.crp",
+      "SteamId": 929469517
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\814720713\\kl-shoppingcenter3x4v2.crp",
+      "SteamId": 814720713
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\929524164\\Cleyra.crp",
+      "SteamId": 929524164
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\817291053\\UniversityBusStation.crp",
+      "SteamId": 817291053
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\931378862\\lg generic tree L 1.crp",
+      "SteamId": 931378862
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\931378862\\lg generic tree L 2.crp",
+      "SteamId": 931378862
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\931378862\\lg generic tree L 3.crp",
+      "SteamId": 931378862
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\931378862\\lg generic tree S 1.crp",
+      "SteamId": 931378862
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\931378862\\lg generic tree S 2.crp",
+      "SteamId": 931378862
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\931378862\\lg generic tree tiny.crp",
+      "SteamId": 931378862
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827875231\\Riverpark HEB.crp",
+      "SteamId": 827875231
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827875231\\Riverpark_H-E-B_Sign.crp",
+      "SteamId": 827875231
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\942199628\\Liquid Amber.crp",
+      "SteamId": 942199628
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827875700\\Riverpark Albertsons.crp",
+      "SteamId": 827875700
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827875700\\Riverpark_Albertsons_Sign.crp",
+      "SteamId": 827875700
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827876190\\Riverpark Bank of America.crp",
+      "SteamId": 827876190
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827876190\\Riverpark_Bank_of_America_Sign.crp",
+      "SteamId": 827876190
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\953510973\\Ash Tree pd.crp",
+      "SteamId": 953510973
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827876870\\Riverpark Chipotle.crp",
+      "SteamId": 827876870
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827876870\\Riverpark_Chipotle_Sign.crp",
+      "SteamId": 827876870
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\963853793\\Lp1 regular big .crp",
+      "SteamId": 963853793
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\963853793\\Lp2 split trunk .crp",
+      "SteamId": 963853793
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\963853793\\Lp4 twin trunk medium  .crp",
+      "SteamId": 963853793
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\963853793\\Lp5 full canopy .crp",
+      "SteamId": 963853793
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\963853793\\lp6 extra tall.crp",
+      "SteamId": 963853793
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\963853793\\lp7 extra full .crp",
+      "SteamId": 963853793
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827877755\\Riverpark Nationwide.crp",
+      "SteamId": 827877755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827877755\\Riverpark_Nationwide_Sign.crp",
+      "SteamId": 827877755
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827878098\\Riverpark Petco.crp",
+      "SteamId": 827878098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827878098\\Riverpark_Petco_Sign.crp",
+      "SteamId": 827878098
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827878530\\Riverpark Pizza Hut.crp",
+      "SteamId": 827878530
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827878530\\Riverpark_Pizza_Hut_Sign.crp",
+      "SteamId": 827878530
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827878996\\Riverpark Starbucks.crp",
+      "SteamId": 827878996
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827878996\\Riverpark_Starbucks_Sign.crp",
+      "SteamId": 827878996
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827879534\\Riverpark T-Mobile.crp",
+      "SteamId": 827879534
+    },
+    {
+      "RelativePath": "%WORKSHOP%\\827879534\\Riverpark_T-Mobile_Sign.crp",
+      "SteamId": 827879534
+    }
+  ],
+  "Mods": [
+    {
+      "Enabled": true,
+      "RelativePath": "%CITIES%\\Files\\Mods\\HardMode",
+      "SteamId": 0
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%CITIES%\\Files\\Mods\\UnlimitedMoney",
+      "SteamId": 0
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%CITIES%\\Files\\Mods\\UnlimitedOilAndOre",
+      "SteamId": 0
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%CITIES%\\Files\\Mods\\UnlimitedSoil",
+      "SteamId": 0
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%CITIES%\\Files\\Mods\\UnlockAll",
+      "SteamId": 0
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%LOCALAPPDATA%\\Addons\\Mods\\Hershey PA",
+      "SteamId": 0
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2960858317",
+      "SteamId": 2960858317
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1094334744",
+      "SteamId": 1094334744
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2966894510",
+      "SteamId": 2966894510
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\3031623332",
+      "SteamId": 3031623332
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\3059406297",
+      "SteamId": 3059406297
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\3198388677",
+      "SteamId": 3198388677
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\407563935",
+      "SteamId": 407563935
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1410077595",
+      "SteamId": 1410077595
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1412844620",
+      "SteamId": 1412844620
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\445589127",
+      "SteamId": 445589127
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1530376523",
+      "SteamId": 1530376523
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1591417160",
+      "SteamId": 1591417160
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1619685021",
+      "SteamId": 1619685021
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1625704117",
+      "SteamId": 1625704117
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1627986403",
+      "SteamId": 1627986403
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1637663252",
+      "SteamId": 1637663252
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\502750307",
+      "SteamId": 502750307
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\530771650",
+      "SteamId": 530771650
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1794015399",
+      "SteamId": 1794015399
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1886877404",
+      "SteamId": 1886877404
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1890830956",
+      "SteamId": 1890830956
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1939169189",
+      "SteamId": 1939169189
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\611254368",
+      "SteamId": 611254368
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\1957515502",
+      "SteamId": 1957515502
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2016920607",
+      "SteamId": 2016920607
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2019097300",
+      "SteamId": 2019097300
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2025147082",
+      "SteamId": 2025147082
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\633547552",
+      "SteamId": 633547552
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2040656402",
+      "SteamId": 2040656402
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2041457644",
+      "SteamId": 2041457644
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2133885971",
+      "SteamId": 2133885971
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2197863850",
+      "SteamId": 2197863850
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\689937287",
+      "SteamId": 689937287
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\707497031",
+      "SteamId": 707497031
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\724382534",
+      "SteamId": 724382534
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2472062376",
+      "SteamId": 2472062376
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2594569657",
+      "SteamId": 2594569657
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2616880500",
+      "SteamId": 2616880500
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2698595602",
+      "SteamId": 2698595602
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2778750497",
+      "SteamId": 2778750497
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2858591409",
+      "SteamId": 2858591409
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2862121823",
+      "SteamId": 2862121823
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2862881785",
+      "SteamId": 2862881785
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2881031511",
+      "SteamId": 2881031511
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2911178252",
+      "SteamId": 2911178252
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\2949127226",
+      "SteamId": 2949127226
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\812125426",
+      "SteamId": 812125426
+    },
+    {
+      "Enabled": true,
+      "RelativePath": "%WORKSHOP%\\949504539",
+      "SteamId": 949504539
+    }
+  ],
+  "ExcludedDLCs": [],
+  "LaunchSettings": {
+    "UseCitiesExe": false,
+    "DebugMono": false,
+    "UnityProfiler": false,
+    "NoWorkshop": false,
+    "ResetAssets": false,
+    "NoAssets": false,
+    "NoMods": false,
+    "LHT": false,
+    "SaveToLoad": null,
+    "LoadSaveGame": false,
+    "DevUi": false,
+    "MapToLoad": null,
+    "StartNewGame": false,
+    "CustomArgs": "",
+    "NewAsset": false,
+    "LoadAsset": false
+  },
+  "LsmSettings": {
+    "LoadEnabled": true,
+    "LoadUsed": true,
+    "SkipFile": null,
+    "UseSkipFile": false
+  },
+  "AutoSave": true,
+  "IsFavorite": true,
+  "Color": null,
+  "LastUsed": "2024-05-27T10:11:22.4789271-04:00",
+  "Usage": -1,
+  "Author": 0,
+  "ProfileId": 0,
+  "UnsavedChanges": false,
+  "BannerBytes": null,
+  "Public": false
+}
